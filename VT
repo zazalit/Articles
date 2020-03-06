@@ -1,0 +1,16 @@
+Présentation d'un premier article sur l'évolution des propriétés en css : très intéressant d'une part pour prendre conscience
+de l'évolution continuelle du css et d'une autre part pour comparer l'ancien css avec le css moderne :
+https://eev.ee/blog/2020/02/01/old-css-new-css/
+
+Présentation d'un second article sur le dark paternn, une notion d'UX design. Ce n'est pas un article qui te dit quoi faire 
+pour réaliser un site web que les utilisateurs adopteront, mais au contraire c'est un article qui évoque des mauvaises pratiques
+qu'il faut éviter. Je trouve ça plus pertinent.
+De plus ce qui est intéressant ce sont les exemples (des sites web connu) qui appuient 
+les mauvaises pratiques, car en tant qu'utilisateur nous-mêmes on y est confronté :
+https://www.novaway.fr/blog/ui-ux-design/dark-pattern-experience-utilisateur
+
+Présentation d'un troisième et dernier article qui est un guide sur les erreurs en javascript. C'est important en tant que 
+développeur de bien comprendre les erreurs pour savoir comment les résoudre et comme j'y serais trés souvent confrontée 
+c'est un article qui me servira. 
+https://levelup.gitconnected.com/the-definite-guide-to-handling-errors-gracefully-in-javascript-58424d9c60e6
+
